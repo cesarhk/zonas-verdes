@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+repositorio.lamolina.edu.pe	TRUE	/	FALSE	1999999999	JSESSIONID	C3B38ADDD6F4C7AB11B7C3EDAEDE0289
+
